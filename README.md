@@ -64,10 +64,8 @@ The roadmap to our project is presented below.
 
 ## Founder
 
-<a>
-  <span class="commit-form-avatar hide-sm hide-md ">
-    <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/Khoushick-S/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Khoushick-S"><img class="float-left rounded-1 avatar-user" src="https://avatars.githubusercontent.com/u/86069674?s=96&amp;v=4" width="48" height="48" alt="@Khoushick-S"></a>
-  </span>
+<a href="https://github.com/Khoushick-S">
+  <img src="https://github.com/Khoushick-S.png?size=50">
 </a>
 
 ★ Khoushick S - _WiT ACE Hackathon_ - [Air-Alert](https://github.com/Khoushick-S/Air-Alert)
