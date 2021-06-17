@@ -1,5 +1,5 @@
 # Air Alert
-Clean Air :: Cool Earth
+Clean Air :: Cool Earth![Logo](https://user-images.githubusercontent.com/86069674/122475431-4610d980-cfe2-11eb-93df-a9c9789d5d1d.png)
 
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
