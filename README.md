@@ -105,7 +105,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
   </span>
 </a>
 
-- **Khoushick S** - _WiT ACE Hackathon_ - [Air-Alert](https://github.com/Khoushick-S)
+- **Khoushick S** - _WiT ACE Hackathon_ - [IBM-Hacks-Air-Alert](https://github.com/Khoushick-S/Air-Alert)
 
 ## License
 
