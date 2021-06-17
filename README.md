@@ -30,6 +30,7 @@ Air pollution is obviously the major cause of global warming which has led to cl
 ### The idea
 
 → People can keep track of air quality in and around their area.They get personalised suggestions to control the traffic based on different range of alerts.
+
 → Traffic congestion is reduced and air pollution is controlled by a great percentage leading to the reduction of global warming.
 
 ## Demo video
