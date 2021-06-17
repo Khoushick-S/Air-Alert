@@ -99,7 +99,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Founder
 
-<a href="https://github.com/Call-for-Code/Project-Sample/graphs/contributors">
+<a>
   <img src="https://contributors-img.web.app/image?repo=Call-for-Code/Project-Sample" />
 </a>
 
