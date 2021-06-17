@@ -108,19 +108,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
   </span>
 </a>
 
-**IBM Hacks:**
-
-      **★ Khoushick S** 
-
-      **★ Nandha Meenakshi R**
-
-      **★ Kepha Rhenie S E**
-
-      **★ Soundharya A L**
-
-      **★ Shanmugapriya J**
-
-_WiT ACE Hackathon_ - [Air-Alert](https://github.com/Khoushick-S/Air-Alert)
+★ Khoushick S - _WiT ACE Hackathon_ - [Air-Alert](https://github.com/Khoushick-S/Air-Alert)
 
 ## License
 
