@@ -20,7 +20,7 @@ Clean Air :: Cool Earth
   - [Built with](#built-with)
   - [Contributing](#contributing)
   - [Versioning](#versioning)
-  - [Authors](#authors)
+  - [Founder](#founder)
   - [License](#license)
   - [Acknowledgments](#acknowledgments)
 
@@ -98,7 +98,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
-## Authors
+## Founder
 
 <a href="https://github.com/Call-for-Code/Project-Sample/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=Call-for-Code/Project-Sample" />
