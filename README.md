@@ -99,7 +99,8 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Founder
 
-<a><img width="24" src="https://media-exp3.licdn.com/dms/image/C4D03AQHlym6kCeO_nA/profile-displayphoto-shrink_100_100/0/1618639029891?e=1629331200&amp;v=beta&amp;t=opvv_8VlfG_q03liB98m16asUsKBaCc7SM21_7_UZbY" height="24" alt="Khoushick S" id="ember33" class="global-nav__me-photo ember-view">
+<a>
+  <img class="float-left rounded-1 avatar-user" src="https://avatars.githubusercontent.com/u/86069674?s=96&amp;v=4" width="48" height="48" alt="@Khoushick-S">
 </a>
 
 - **Khoushick S** - _WiT ACE Hackathon_ - [Air-Alert](https://github.com/Khoushick-S)
