@@ -62,18 +62,9 @@ This solution would make a big difference in the air quality. Every day’s air 
 
 ## Project roadmap
 
-The project currently does the following things.
+The roadmap to our project is presented below.
 
-- Feature 1
-- Feature 2
-- Feature 3
-
-It's in a free tier IBM Cloud Kubernetes cluster. In the future we plan to run on Red Hat OpenShift, for example.
-
-See below for our proposed schedule on next steps after Call for Code 2021 submission.
-
-![Roadmap](https://user-images.githubusercontent.com/86069674/122471324-c2a0b980-cfdc-11eb-8942-455355bf0928.jpg)
-
+![Roadmap](https://user-images.githubusercontent.com/86069674/122472134-cbde5600-cfdd-11eb-8c5a-b93748d43aee.jpg)
 
 ## Getting started
 
