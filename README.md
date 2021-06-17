@@ -12,12 +12,8 @@ Clean Air :: Cool Earth
     - [The Idea](#the-idea)
   - [Demo video](#demo-video)
   - [The Architecture](#the-architecture)
-  - [Long description](#long-description)
-  - [Project roadmap](#project-roadmap)
-  - [Getting started](#getting-started)
-  - [Live demo](#live-demo)
-  - [Built with](#built-with)
-  - [Versioning](#versioning)
+  - [Long Description](#long-description)
+  - [Solution Roadmap](#solution-roadmap)
   - [Founder](#founder)
   - [License](#license)
 
@@ -44,7 +40,7 @@ People can keep track of air quality in and around their area.They get personali
 3. Based on the level of pollution, different alert signals are given.
 4. User is asked about the purpose of travel and suggested the best option to reduce pollution.
 
-## Long description
+## Long Description
 
 **★ Problem:**
 
@@ -60,37 +56,11 @@ Pollution caused by industries can also be reduced by keenly monitoring the toxi
 
 This solution would make a big difference in the air quality. Every day’s air quality can be controlled and maintained at good levels. Eventually this would reduce the increasing temperature and keep our place much cooler and cleaner than ever before. When this trend is practiced in many cities and industries, it would lead to reduced global warming and less consequences.
 
-## Project roadmap
+## Solution Roadmap
 
 The roadmap to our project is presented below.
 
 ![Roadmap](https://user-images.githubusercontent.com/86069674/122472134-cbde5600-cfdd-11eb-8c5a-b93748d43aee.jpg)
-
-## Getting started
-
-In this section you add the instructions to run your project on your local machine for development and testing purposes. You can also add instructions on how to deploy the project in production.
-
-- [sample-react-app](./sample-react-app/)
-- [sample-angular-app](./sample-angular-app/)
-- [Explore other projects](https://github.com/upkarlidder/ibmhacks)
-
-## Live demo
-
-You can find a running system to test at [callforcode.mybluemix.net](http://callforcode.mybluemix.net/).
-
-## Built with
-
-- [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
-- [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logic
-- [IBM API Connect](https://cloud.ibm.com/catalog?search=api%20connect#search_results) - The web framework used
-- [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-- [Maven](https://maven.apache.org/) - Dependency management
-- [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
 ## Founder
 
