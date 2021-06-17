@@ -100,7 +100,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 ## Founder
 
 <a>
-  <img src="https://contributors-img.web.app/image?repo=Call-for-Code/Project-Sample" />
+  <img style="height:auto;" alt="" width="260" height="260" class="avatar avatar-user width-full border color-bg-primary" src="https://avatars.githubusercontent.com/u/86069674?v=4">
 </a>
 
 - **Khoushick S** - _WiT ACE Hackathon_ - [Air-Alert](https://github.com/Khoushick-S)
