@@ -7,12 +7,11 @@ Clean Air :: Cool Earth
 
 - [Air Alert](#Air-Alert)
   - [Contents](#contents)
-  - [Short description](#short-description)
+  - [Short Description](#short-description)
     - [What's the problem?](#whats-the-problem)
-    - [How can technology help?](#how-can-technology-help)
     - [The idea](#the-idea)
   - [Demo video](#demo-video)
-  - [The architecture](#the-architecture)
+  - [The Architecture](#the-architecture)
   - [Long description](#long-description)
   - [Project roadmap](#project-roadmap)
   - [Getting started](#getting-started)
@@ -22,27 +21,24 @@ Clean Air :: Cool Earth
   - [Founder](#founder)
   - [License](#license)
 
-## Short description
+## Short Description
 
 ### What's the problem?
 
 Air pollution is obviously the major cause of global warming which has led to climate change. Though there are many causes of air pollution, vehicular pollution and industrial pollution have been greatly contributing to it.
 
-### How can technology help?
-
-Schools and teachers can continue to engage with their students through virtual classrooms, and even create interactive spaces for classes. As parents face a new situation where they may need to homeschool their children, finding appropriate online resources is important as well.
-
 ### The idea
 
-It's imperative that learning and creating can continue when educational institutions have to shift the way they teach in times of crises, such as the COVID-19 pandemic. Providing a set of open source tools, backed by IBM Cloud and Watson Services, will enable educators to more easily make content available for their students.
+→ People can keep track of air quality in and around their area.They get personalised suggestions to control the traffic based on different range of alerts.
+→ Traffic congestion is reduced and air pollution is controlled by a great percentage leading to the reduction of global warming.
 
 ## Demo video
 
 [![Watch the video](https://github.com/Call-for-Code/Liquid-Prep/blob/master/images/readme/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
 
-## The architecture
+## The Architecture
 
-![FIANL](https://user-images.githubusercontent.com/86069674/122463900-d267d000-cfd3-11eb-8200-6bc5ee6d605c.png)
+![Architecture](https://user-images.githubusercontent.com/86069674/122465070-3c34a980-cfd5-11eb-8c89-ce0eaae85056.png)
 
 1. The user enters the app by signing in.
 2. The user's location is detected and the air quality around that place is displayed.
@@ -52,9 +48,11 @@ It's imperative that learning and creating can continue when educational institu
 ## Long description
 
 **Problem:**
+
 Air pollution is obviously the major cause of global warming which has led to climate change. Though there are many causes of air pollution, vehicular pollution and industrial pollution have been greatly contributing to it.
 
 **Our solution:**
+
 The major cause of vehicular pollution is traffic congestion. In most urban cities, the number of motor vehicles is high and as such, there is a congestion of traffic. When these many vehicles congest in a singular area, the emissions per kilometre go up, contributing to vehicular pollution. The carbon dioxide and volatile organic compounds (VOCs), which include halocarbons, hydrocarbons and oxygenates, are observed to be 250% more in urban and congested areas than areas with moving traffic, and result in the formation of secondary pollutants. Most city governments can take action to lower vehicular pollution, seeing that more emissions are produced by vehicles in urban areas because of high population of vehicles at use.
 
 The pollution control board of the government can regularly keep track of the air quality by fixing pollution measuring devices at the pollution hotspots like main roads and signals in metro cities and industrial areas. These devices would measure the levels of green house gases and humidity around a particular radius of area. Our application, Air-Alert would be connected to these sensors, so that the quality of air is updated on the app every hour. This app can show the level of pollution wherever the sensors are fixed. Four ranges of indications would be shown where, the green signal means good air quality, the yellow signal means average quality of air, the orange signal means bad quality of air and the red signal means the worst air quality. Based on this, the app would strictly recommend the people to use public transportation or bicycle or even not to use vehicles until the green signal is shown. Air-Alert would notify about the traffic level that has to maintained in order to keep the air quality good. Traffic police could take actions if excessive unwanted vehicles are found to be roaming. By this traffic congestion could be controlled every hour. Eventually vehicular pollution can be kept in control.
