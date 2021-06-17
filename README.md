@@ -64,8 +64,8 @@ The roadmap to our project is presented below.
 
 ## Founder
 
-<a href="https://github.com/Call-for-Code/Project-Sample/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Call-for-Code/Project-Sample" />
+<a href="https://github.com/Khoushick-S/Air-Alert/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=Khoushick-S/Air-Alert" />
 </a>
 
 
