@@ -101,7 +101,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 ## Authors
 
 <a href="https://github.com/Call-for-Code/Project-Sample/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Call-for-Code/Project-Sample" />
+  <img src="file:///G:/Khoushick/College/Pic.jfif/>
 </a>
 
 - **Khoushick S** - _WiT ACE Hackathon_ - [Air-Alert](https://github.com/Khoushick-S)
