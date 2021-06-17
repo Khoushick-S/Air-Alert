@@ -18,7 +18,6 @@ Clean Air :: Cool Earth
   - [Getting started](#getting-started)
   - [Live demo](#live-demo)
   - [Built with](#built-with)
-  - [Contributing](#contributing)
   - [Versioning](#versioning)
   - [Founder](#founder)
   - [License](#license)
@@ -89,9 +88,6 @@ You can find a running system to test at [callforcode.mybluemix.net](http://call
 - [Maven](https://maven.apache.org/) - Dependency management
 - [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
