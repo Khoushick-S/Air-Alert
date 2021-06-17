@@ -42,12 +42,12 @@ It's imperative that learning and creating can continue when educational institu
 
 ## The architecture
 
-![Video transcription/translation app](https://developer.ibm.com/developer/tutorials/cfc-starter-kit-speech-to-text-app-example/images/cfc-covid19-remote-education-diagram-2.png)
+<img src="(C:\Users\Khoushick S\Downloads\FINAL.png)">
 
-1. The user navigates to the site and uploads a video file.
-2. Watson Speech to Text processes the audio and extracts the text.
-3. Watson Translation (optionally) can translate the text to the desired language.
-4. The app stores the translated text as a document within Object Storage.
+1. The user enters the app by signing in.
+2. The user's location is detected and the air quality around that place is displayed.
+3. Based on the level of pollution, different alert signals are given.
+4. User is asked about the purpose of travel and suggested the best option to reduce pollution.
 
 ## Long description
 
