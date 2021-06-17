@@ -100,8 +100,9 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 ## Founder
 
 <a>
-  <circle img class="float-left rounded-1 avatar-user" src="https://avatars.githubusercontent.com/u/86069674?s=96&amp;v=4" r="32" cx="32" cy="32" alt="@Khoushick-S">
-  </circle> 
+  <span class="commit-form-avatar hide-sm hide-md ">
+    <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/Khoushick-S/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Khoushick-S"><img class="float-left rounded-1 avatar-user" src="https://avatars.githubusercontent.com/u/86069674?s=96&amp;v=4" width="48" height="48" alt="@Khoushick-S"></a>
+  </span>
 </a>
 
 - **Khoushick S** - _WiT ACE Hackathon_ - [Air-Alert](https://github.com/Khoushick-S)
