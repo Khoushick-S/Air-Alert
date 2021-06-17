@@ -72,7 +72,8 @@ It's in a free tier IBM Cloud Kubernetes cluster. In the future we plan to run o
 
 See below for our proposed schedule on next steps after Call for Code 2021 submission.
 
-![Roadmap](./images/roadmap.jpg)
+![Roadmap](https://user-images.githubusercontent.com/86069674/122471324-c2a0b980-cfdc-11eb-8942-455355bf0928.jpg)
+
 
 ## Getting started
 
