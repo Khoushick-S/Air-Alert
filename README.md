@@ -29,9 +29,7 @@ Air pollution is obviously the major cause of global warming which has led to cl
 
 ### The idea
 
-→ People can keep track of air quality in and around their area.They get personalised suggestions to control the traffic based on different range of alerts.
-
-→ Traffic congestion is reduced and air pollution is controlled by a great percentage leading to the reduction of global warming.
+People can keep track of air quality in and around their area.They get personalised suggestions to control the traffic based on different range of alerts. Traffic congestion is reduced and air pollution is controlled by a great percentage leading to the reduction of global warming.
 
 ## Demo video
 
@@ -48,11 +46,11 @@ Air pollution is obviously the major cause of global warming which has led to cl
 
 ## Long description
 
-**Problem:**
+**★ Problem:**
 
 Air pollution is obviously the major cause of global warming which has led to climate change. Though there are many causes of air pollution, vehicular pollution and industrial pollution have been greatly contributing to it.
 
-**Our solution:**
+**★ Our solution:**
 
 The major cause of vehicular pollution is traffic congestion. In most urban cities, the number of motor vehicles is high and as such, there is a congestion of traffic. When these many vehicles congest in a singular area, the emissions per kilometre go up, contributing to vehicular pollution. The carbon dioxide and volatile organic compounds (VOCs), which include halocarbons, hydrocarbons and oxygenates, are observed to be 250% more in urban and congested areas than areas with moving traffic, and result in the formation of secondary pollutants. Most city governments can take action to lower vehicular pollution, seeing that more emissions are produced by vehicles in urban areas because of high population of vehicles at use.
 
@@ -110,7 +108,19 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
   </span>
 </a>
 
-- **Khoushick S** - _WiT ACE Hackathon_ - **IBM Hacks** - [Air-Alert](https://github.com/Khoushick-S/Air-Alert)
+**IBM Hacks:**
+
+      **★ Khoushick S** 
+
+      **★ Nandha Meenakshi R**
+
+      **★ Kepha Rhenie S E**
+
+      **★ Soundharya A L**
+
+      **★ Shanmugapriya J**
+
+_WiT ACE Hackathon_ - [Air-Alert](https://github.com/Khoushick-S/Air-Alert)
 
 ## License
 
