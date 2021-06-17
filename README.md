@@ -22,7 +22,6 @@ Clean Air :: Cool Earth
   - [Versioning](#versioning)
   - [Founder](#founder)
   - [License](#license)
-  - [Acknowledgments](#acknowledgments)
 
 ## Short description
 
@@ -109,7 +108,3 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 ## License
 
 This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Based on [Billie Thompson's README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
