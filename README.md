@@ -9,7 +9,7 @@ Clean Air :: Cool Earth
   - [Contents](#contents)
   - [Short Description](#short-description)
     - [What's the problem?](#whats-the-problem)
-    - [The idea](#the-idea)
+    - [The Idea](#the-idea)
   - [Demo video](#demo-video)
   - [The Architecture](#the-architecture)
   - [Long description](#long-description)
@@ -27,7 +27,7 @@ Clean Air :: Cool Earth
 
 Air pollution is obviously the major cause of global warming which has led to climate change. Though there are many causes of air pollution, vehicular pollution and industrial pollution have been greatly contributing to it.
 
-### The idea
+### The Idea
 
 People can keep track of air quality in and around their area.They get personalised suggestions to control the traffic based on different range of alerts. Traffic congestion is reduced and air pollution is controlled by a great percentage leading to the reduction of global warming.
 
