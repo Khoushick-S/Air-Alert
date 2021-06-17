@@ -10,7 +10,7 @@ Clean Air :: Cool Earth
   - [Short Description](#short-description)
     - [What's the problem?](#whats-the-problem)
     - [The Idea](#the-idea)
-  - [Demo video](#demo-video)
+  - [Demo Video](#demo-video)
   - [The Architecture](#the-architecture)
   - [Long Description](#long-description)
   - [Solution Roadmap](#solution-roadmap)
@@ -27,9 +27,9 @@ Air pollution is obviously the major cause of global warming which has led to cl
 
 People can keep track of air quality in and around their area.They get personalised suggestions to control the traffic based on different range of alerts. Traffic congestion is reduced and air pollution is controlled by a great percentage leading to the reduction of global warming.
 
-## Demo video
+## Demo Video
 
-[![Watch the video](https://github.com/Call-for-Code/Liquid-Prep/blob/master/images/readme/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
+Waiting fot the video...
 
 ## The Architecture
 
