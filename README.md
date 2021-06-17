@@ -14,6 +14,7 @@ Clean Air :: Cool Earth
   - [The Architecture](#the-architecture)
   - [Long Description](#long-description)
   - [Solution Roadmap](#solution-roadmap)
+  - [Team](#team)
   - [Founder](#founder)
   - [License](#license)
 
@@ -62,6 +63,16 @@ The roadmap to our project is presented below.
 
 ![Roadmap](https://user-images.githubusercontent.com/86069674/122473970-2f698300-cfe0-11eb-842f-9082fc4d8a08.jpg)
 
+## Team
+
+**IBM Hacks**
+
+- Khoushick S
+- Nandha Meenakshi R
+- Kepha Rhenie S
+- Soundharya A
+- Shanmugapriya J
+
 ## Founder
 
 <a href="https://github.com/Khoushick-S/Air-Alert/graphs/contributors">
@@ -69,7 +80,7 @@ The roadmap to our project is presented below.
 </a>
 
 
-★ Khoushick S - _WiT ACE Hackathon_ - [Air-Alert](https://github.com/Khoushick-S/Air-Alert)
+- Khoushick S - _WiT ACE Hackathon_ - [Air-Alert](https://github.com/Khoushick-S/Air-Alert)
 
 ## License
 
