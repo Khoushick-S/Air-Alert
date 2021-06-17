@@ -100,7 +100,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 ## Founder
 
 <a>
-  <circle img class="float-left rounded-1 avatar-user" src="https://avatars.githubusercontent.com/u/86069674?s=96&amp;v=4" r="32" cx="32" cy="32" stroke-width="1" alt="@Khoushick-S">
+  <circle img class="float-left rounded-1 avatar-user" src="https://avatars.githubusercontent.com/u/86069674?s=96&amp;v=4" r="32" cx="32" cy="32" alt="@Khoushick-S">
   </circle> 
 </a>
 
