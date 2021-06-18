@@ -17,6 +17,8 @@ Clean Air :: Cool Earth
   - [Long Description](#long-description)
   - [Solution Roadmap](#solution-roadmap)
   - [Solution App](#solution-app)
+    - [Air Alert](#air-alert)
+    - [Guidelines](#guidelines)
   - [Team](#team)
   - [Founder](#founder)
   - [License](#license)
@@ -68,11 +70,25 @@ The roadmap to our project is presented below.
 
 ## Solution App
 
+### Air Alert
+
 [![Air-Alert](https://img.shields.io/badge/App-Air_Alert-blue)](https://air-alert.eu-gb.cf.appdomain.cloud/)
 
 The Air-Alert application is very user-friendly and has a good interface design built in. It is simple and is suitable for  people of every age groups. The app is always kept up-to-the-minute. This enables the user to plan their travel accordingly. The app analyzes the user's situation and then provide various suggestions to avoid traffic congestion. Among these, the user can choose a convenient option. Air-Alert is designed in a way that is both user-friendly and eco-friendly.
 
 [![App Air Alert](https://user-images.githubusercontent.com/86069674/122515500-25b93d00-d02b-11eb-9149-7e0e2ffd5ed0.PNG)](https://air-alert.eu-gb.cf.appdomain.cloud/)
+
+### Guidelines 
+
+1. Install the app.
+2. Accept terms and conditions.
+3. Allow or deny access to device's location.
+4.  Login using email or phone number.
+5. Add the addresses of the most visited places by you in the dashboard if interested.
+6. You can find the pollution levels and alert signals in the home page of the app
+7. Use the search bar to know the air quality of any place.
+8. Get personalised recommendations about the means of transport in the suggestion section.
+9. Turn on the notifications so that you will be notified about the alerts.
 
 ## Team
 
