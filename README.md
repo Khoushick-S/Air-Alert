@@ -12,6 +12,7 @@ Clean Air :: Cool Earth
   - [Short Description](#short-description)
     - [What's the problem?](#whats-the-problem)
     - [The Idea](#the-idea)
+    - [How can Technology Help?](#how-can-technology-help?)
   - [Demo Video](#demo-video)
   - [The Architecture](#the-architecture)
   - [Long Description](#long-description)
@@ -32,6 +33,12 @@ Air pollution is obviously the major cause of global warming which has led to cl
 ### The Idea
 
 People can keep track of air quality in and around their area.They get personalised suggestions to control the traffic based on different range of alerts. Traffic congestion is reduced and air pollution is controlled by a great percentage leading to the reduction of global warming.
+
+### How can Technology Help?
+
+Get updates about air pollution in your city
+
+AirAlert provides hourly updates about air pollution in key cities in India. AirAlert allows you to track air pollution in your city and take informed actions to avoid airborne pollution that may impact your quality of life or cause severe adverse health effects. Designed for intuitive use, AirAlert rates urban air quality in accordance to the Air Quality Index.
 
 ## Demo Video
 
@@ -65,6 +72,8 @@ This solution would make a big difference in the air quality. Every day’s air 
 ## Solution Roadmap
 
 The roadmap to our project is presented below.
+
+![Roadmapp](https://user-images.githubusercontent.com/86069674/122523930-2f47a280-d035-11eb-9b35-4e6b4cafcbe9.jpg)
 
 ![Roadmap](https://user-images.githubusercontent.com/86069674/122473970-2f698300-cfe0-11eb-842f-9082fc4d8a08.jpg)
 
