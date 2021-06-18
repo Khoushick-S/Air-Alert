@@ -18,7 +18,7 @@ Clean Air :: Cool Earth
   - [Long Description](#long-description)
   - [Solution Roadmap](#solution-roadmap)
   - [Solution App](#solution-app)
-    - [Air Alert](#air-alert)
+    - [About App](#about-app)
     - [Guidelines](#guidelines)
   - [Team](#team)
   - [Founder](#founder)
@@ -77,7 +77,7 @@ The roadmap to our project is presented below.
 
 ## Solution App
 
-### Air Alert
+### About App
 
 [![Air-Alert](https://img.shields.io/badge/App-Air_Alert-blue)](https://air-alert.eu-gb.cf.appdomain.cloud/)
 
