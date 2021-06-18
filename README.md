@@ -44,7 +44,7 @@ AirAlert provides hourly updates about air pollution in key cities in India. Air
 
 ## Demo Video
 
-![Video](https://user-images.githubusercontent.com/86069674/122573138-15758200-d06c-11eb-8919-78440ea7bba6.png)
+![Demo Video](https://user-images.githubusercontent.com/86069674/122573931-be23e180-d06c-11eb-9df1-f8a5572dd14e.png)
 
 ## The Architecture
 
