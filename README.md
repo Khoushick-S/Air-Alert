@@ -1,7 +1,6 @@
 # Air Alert
 Clean Air :: Cool Earth
 
-[![Air-Alert](https://img.shields.io/badge/App-Air_Alert-blue)](https://air-alert.eu-gb.cf.appdomain.cloud/)
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 [![Founder](https://img.shields.io/badge/Founder-Khoushick_S-blue)](https://github.com/Khoushick-S)
 [![Team](https://img.shields.io/badge/Team-IBM_Hacks-blue)](https://github.com/Khoushick-S/Air-Alert/settings/access?query=filter%3Acollaborators)
@@ -17,6 +16,7 @@ Clean Air :: Cool Earth
   - [The Architecture](#the-architecture)
   - [Long Description](#long-description)
   - [Solution Roadmap](#solution-roadmap)
+  - [Solution App](#solution-app)
   - [Team](#team)
   - [Founder](#founder)
   - [License](#license)
@@ -65,6 +65,12 @@ This solution would make a big difference in the air quality. Every day’s air 
 The roadmap to our project is presented below.
 
 ![Roadmap](https://user-images.githubusercontent.com/86069674/122473970-2f698300-cfe0-11eb-842f-9082fc4d8a08.jpg)
+
+## Solution App
+
+[![Air-Alert](https://img.shields.io/badge/App-Air_Alert-blue)](https://air-alert.eu-gb.cf.appdomain.cloud/)
+![App Air Alert](https://user-images.githubusercontent.com/86069674/122515500-25b93d00-d02b-11eb-9149-7e0e2ffd5ed0.PNG)
+
 
 ## Team
 
