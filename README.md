@@ -73,9 +73,7 @@ This solution would make a big difference in the air quality. Every day’s air 
 
 The roadmap to our project is presented below.
 
-![Roadmapp](https://user-images.githubusercontent.com/86069674/122523930-2f47a280-d035-11eb-9b35-4e6b4cafcbe9.jpg)
-
-![Roadmap](https://user-images.githubusercontent.com/86069674/122473970-2f698300-cfe0-11eb-842f-9082fc4d8a08.jpg)
+![Roadmap](https://user-images.githubusercontent.com/86069674/122524188-7cc40f80-d035-11eb-9944-934c6124f4c5.jpg)
 
 ## Solution App
 
