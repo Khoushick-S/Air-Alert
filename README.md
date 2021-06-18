@@ -34,15 +34,17 @@ Air pollution is obviously the major cause of global warming which has led to cl
 
 ### The Idea
 
-People can keep track of air quality in and around their area.They get personalised suggestions to control the traffic based on different range of alerts. Traffic congestion is reduced and air pollution is controlled by a great percentage leading to the reduction of global warming.
+People can keep track of air quality in and around their area. They get personalised suggestions to control the traffic based on different range of alerts. Traffic congestion is reduced and air pollution is controlled by a great percentage leading to the reduction of global warming.
 
 ### How can Technology Help?
 
-Get updates about air pollution in your city
+Get updates about air pollution in your city.
 
 AirAlert provides hourly updates about air pollution in key cities in India. AirAlert allows you to track air pollution in your city and take informed actions to avoid airborne pollution that may impact your quality of life or cause severe adverse health effects. Designed for intuitive use, AirAlert rates urban air quality in accordance to the Air Quality Index.
 
 ## Demo Video
+
+A brilliant solution to monitor and analyse the percentage of gases in the atmosphere by collecting unlimited data and precise decision making.
 
 ![Demo Video](https://user-images.githubusercontent.com/86069674/122573931-be23e180-d06c-11eb-9df1-f8a5572dd14e.png)
 
