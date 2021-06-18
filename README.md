@@ -4,6 +4,7 @@ Clean Air :: Cool Earth
 [![Air-Alert](https://img.shields.io/badge/App-Air_Alert-blue)](https://air-alert.eu-gb.cf.appdomain.cloud/)
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 [![Founder](https://img.shields.io/badge/Founder-Khoushick_S-blue)](https://github.com/Khoushick-S)
+[![Team](https://img.shields.io/badge/IBM Hacks-Collaborators-blue)]
 
 ## Contents
 
