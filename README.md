@@ -1,3 +1,4 @@
+![Air Alert App](https://user-images.githubusercontent.com/86069674/122651757-9f027e00-d158-11eb-9cea-4e1be05c8570.PNG)
 # Air Alert
 Clean Air :: Cool Earth
 
@@ -96,7 +97,7 @@ The roadmap to our project is presented below.
 
 The **Air-Alert** application is very user-friendly and has a good interface design built in. It is simple and is suitable for  people of every age groups. The app is always kept up-to-the-minute. This enables the user to plan their travel accordingly. The app analyzes the user's situation and then provide various suggestions to avoid traffic congestion. Among these, the user can choose a convenient option. Air-Alert is designed in a way that is both user-friendly and eco-friendly.
 
-[![App Air Alert](https://user-images.githubusercontent.com/86069674/122515500-25b93d00-d02b-11eb-9149-7e0e2ffd5ed0.PNG)](https://air-alert.eu-gb.cf.appdomain.cloud/)
+[![Air Alert App](https://user-images.githubusercontent.com/86069674/122651763-a6c22280-d158-11eb-9563-d2f7ccd855c8.PNG)](https://air-alert.eu-gb.cf.appdomain.cloud/)
 
 ### Guidelines 
 
