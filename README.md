@@ -97,7 +97,7 @@ The roadmap to our project is presented below.
 
 The **Air-Alert** application is very user-friendly and has a good interface design built in. It is simple and is suitable for  people of every age groups. The app is always kept up-to-the-minute. This enables the user to plan their travel accordingly. The app analyzes the user's situation and then provide various suggestions to avoid traffic congestion. Among these, the user can choose a convenient option. Air-Alert is designed in a way that is both user-friendly and eco-friendly.
 
-[![Air Alert App](https://user-images.githubusercontent.com/86069674/122651763-a6c22280-d158-11eb-9563-d2f7ccd855c8.PNG)](https://air-alert.eu-gb.cf.appdomain.cloud/)
+[![Air Alert App](https://user-images.githubusercontent.com/86069674/122651816-eab52780-d158-11eb-9e54-fb63a2467fb0.PNG)](https://air-alert.eu-gb.cf.appdomain.cloud/)
 
 ### Guidelines 
 
