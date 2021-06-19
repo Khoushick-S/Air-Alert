@@ -1,4 +1,3 @@
-![Air Alert App](https://user-images.githubusercontent.com/86069674/122651757-9f027e00-d158-11eb-9cea-4e1be05c8570.PNG)
 # Air Alert
 Clean Air :: Cool Earth
 
