@@ -22,6 +22,7 @@ Clean Air :: Cool Earth
   - [Solution App](#solution-app)
     - [About App](#about-app)
     - [Guidelines](#guidelines)
+  - [Built with](#built-with)
   - [Team](#team)
   - [Founder](#founder)
   - [License](#license)
@@ -108,6 +109,15 @@ The **Air-Alert** application is very user-friendly and has a good interface des
 7. Use the search bar to know the air quality of any place.
 8. Get personalised recommendations about the means of transport in the suggestion section.
 9. Turn on the notifications so that you will be notified about the alerts.
+
+## Built with
+
+- [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
+- [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logic
+- [IBM API Connect](https://cloud.ibm.com/catalog?search=api%20connect#search_results) - The web framework used
+- [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+- [Maven](https://maven.apache.org/) - Dependency management
+- [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Team
 
