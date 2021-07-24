@@ -47,7 +47,7 @@ AirAlert provides hourly updates about air pollution in key cities in India. Air
 
 A brilliant solution to monitor and analyse the percentage of gases in the atmosphere by collecting unlimited data and precise decision making.
 
-[![Demo Video](https://user-images.githubusercontent.com/86069674/126875698-2c107aef-77e4-4190-a954-7e8cdf14ea9e.jpg)](https://www.youtube.com/watch?v=PQyksuCvnxY&t=5s)
+[![Demo Video](https://user-images.githubusercontent.com/86069674/126875698-2c107aef-77e4-4190-a954-7e8cdf14ea9e.jpg)](https://youtu.be/PQyksuCvnxY)
 
 ## The Architecture
 
