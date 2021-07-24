@@ -3,7 +3,7 @@ Clean Air :: Cool Earth
 
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 [![Founder](https://img.shields.io/badge/Founder-Khoushick_S-blue)](https://github.com/Khoushick-S)
-[![Team](https://img.shields.io/badge/Team-IBM_Hacks-blue)](https://github.com/Khoushick-S/Air-Alert/settings/access?query=filter%3Acollaborators)
+[![Team](https://img.shields.io/badge/Team-Hack-Table-blue)](https://github.com/Khoushick-S/Air-Alert/settings/access?query=filter%3Acollaborators)
 
 ## Contents
 
@@ -103,7 +103,7 @@ The **Air-Alert** application is very user-friendly and has a good interface des
 1. Install the app.
 2. Accept terms and conditions.
 3. Allow or deny access to device's location.
-4.  Login using email or phone number.
+4. Login using email or phone number.
 5. Add the addresses of the most visited places by you in the dashboard if interested.
 6. You can find the pollution levels and alert signals in the home page of the app
 7. Use the search bar to know the air quality of any place.
@@ -121,13 +121,10 @@ The **Air-Alert** application is very user-friendly and has a good interface des
 
 ## Team
 
-**IBM Hacks**
+**Hack Table**
 
 - Khoushick S
-- Nandha Meenakshi R
-- Kepha Rhenie S
-- Soundharya A
-- Shanmugapriya J
+- Aaquil Ahamed P M
 
 ## Founder
 
@@ -136,7 +133,7 @@ The **Air-Alert** application is very user-friendly and has a good interface des
 </a>
 
 
-- Khoushick S - _WiT ACE Hackathon_ - [Air-Alert](https://github.com/Khoushick-S/Air-Alert)
+- Khoushick S - _Hack Table_ - [Air-Alert](https://github.com/Khoushick-S/Air-Alert)
 
 ## License
 
