@@ -3,7 +3,7 @@ Clean Air :: Cool Earth
 
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 [![Founder](https://img.shields.io/badge/Founder-Khoushick_S-blue)](https://github.com/Khoushick-S)
-[![Team](https://img.shields.io/badge/Team-Hack-Table-blue)](https://github.com/Khoushick-S/Air-Alert/settings/access?query=filter%3Acollaborators)
+[![Team](https://img.shields.io/badge/Team-Hack_Table-blue)](https://github.com/Khoushick-S/Air-Alert/settings/access?query=filter%3Acollaborators)
 
 ## Contents
 
